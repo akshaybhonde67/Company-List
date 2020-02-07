@@ -28,3 +28,4 @@ capgemini canada - https://www.eluta.ca/spl/047660-data-science-manager-%E2%80%9
 suncor - https://www.eluta.ca/spl/data-engineer-67a28642e675c67da71b3a7b11d73617<br>
 Glu mobile - https://www.eluta.ca/spl/data-analyst-6fd0cf6dcb3b69569235a0395f333c97<br>
 shutterstock - https://www.eluta.ca/spl/data-scientist-computer-vision-6afd053f295925daca2ec4cdfcc79ca1<br>
+dynacert - http://demo.suttonpreview.com/Careers/Default.aspx<br>
