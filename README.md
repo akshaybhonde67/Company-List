@@ -1,1 +1,30 @@
 # Company-List
+Northern lights direct - careers@northernlightsdirect<br>
+Ontario Real Estate Association<br>
+Novin class - https://www.linkedin.com/in/homan-hemmat-hamrah-545a0379<br>
+Oracle RMS - https://www.oraclerms.com/careers/<br>
+Nielsen - https://careers.nielsen.com/en-us/locations/na/on-markham/<br>
+sobeys - https://jobs.sobeyscareers.com/sobeys/job/Toronto-Data-Engineer-ON/613386400/<br>
+keyrus - https://www.keyrus.com/en/post/?post_pk=6772<br>
+TD Bank - https://jobs.td.com/en-CA/job-search-results/?keyword=data&addtnl_categories=Enterprise%20Data%20%26%20Analytics&employment_type=Full%20Time&primary_country=CA<br>
+Telus health - https://telus.taleo.net/careersection/10000/jobdetail.ftl?job=HEA04394-20&tz=GMT-05%3A00&tzname=America%2FNew_York<br>
+Atomic reach - https://www.atomicreach.com/careers<br>
+rubikcloud technologies - https://rubikloud.com/careers/<br>
+Ainsworth - https://www.ainsworth.com/canada/en/careers/<br>
+Veeva systems - https://jobs.lever.co/veeva/9a8fed60-321c-4a7b-995a-fca07fccd358<br>
+hubdoc - https://www.hubdoc.com/jobs<br>
+deem global - https://jobs.jobvite.com/deem/jobs<br>
+carltonone engagement - https://www.fitzii.com/job/45907?s=fc<br>
+Ludia - https://jobs.smartrecruiters.com/Ludia/743999706387283-senior-data-analyst<br>
+gameloft - https://jobs.smartrecruiters.com/Gameloft/743999706383122-analyste-de-donnees-data-analyst<br>
+behaviour interactive - https://jobs.smartrecruiters.com/BehaviourInteractive/743999706273205-data-analyst-internship-summer-2020<br>
+CPP investments - https://jobs.smartrecruiters.com/CPPInvestments/743999705844446-senior-analyst-associate-data-and-advanced-analytics<br>
+bestbuy - https://www.eluta.ca/spl/data-analyst-d75f9ffa8aea80143feb01ca41f26382?imo=23<br>
+loblaws - https://www.eluta.ca/spl/data-scientist-15c9a2da461734138008ec8adcfef67c<br>
+electronic arts - https://www.eluta.ca/spl/data-engineer-2eade6069f79b70cf026ec04a9d2d971<br>
+automat technologies - https://www.eluta.ca/spl/data-analyst-analyste-de-donn%C3%A9es-22be27ac4c4e241f6e6d21867ec5fdb8?imo=23<br>
+top hat - https://www.eluta.ca/spl/senior-data-engineer-86f90f891dd63d11121e226e96cfc2d5<br>
+capgemini canada - https://www.eluta.ca/spl/047660-data-science-manager-%E2%80%93-canada-f131e80cafd0d3482754f14c0a7a912e<br>
+suncor - https://www.eluta.ca/spl/data-engineer-67a28642e675c67da71b3a7b11d73617<br>
+Glu mobile - https://www.eluta.ca/spl/data-analyst-6fd0cf6dcb3b69569235a0395f333c97<br>
+shutterstock - https://www.eluta.ca/spl/data-scientist-computer-vision-6afd053f295925daca2ec4cdfcc79ca1<br>
