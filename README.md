@@ -33,25 +33,25 @@ dynacert - http://demo.suttonpreview.com/Careers/Default.aspx<br>
 ecofish research - https://www.ecofishresearch.com/careers<br>
 lifelabs - https://jobs.lifelabs.com/job/Toronto-Data-Quality-and-Integrity-Analyst-ON/622837900/?feedId=281500&utm_source=Indeed&utm_campaign=LifeLabs_Indeed&jobPipeline=Indeed<br>
 stericycle - https://careers.stericycle.com/job/Oakville-Data-Analyst-ON-L6H-1A7/629168700/?feedId=302800&utm_source=Indeed&utm_campaign=Stericycle_Indeed&source=Indeed.com&sourceType=PREMIUM_POST_SITE<br>
-sickkids
-enthusiast gaming
-smooth commerce
-munich re
-MWN technologies
-Morningstar
-Intact
-CGI
-Exchange Bank of Canada
-KPMG
-Flipp
-Wonolo
-Snaptravel
-Freshii
-Daisy Intelligence Corporation
-Homestars
-JAM Direct
-Heliolytics -
-synechron -
-SNC Lavalin
+sickkids<br>
+enthusiast gaming<br>
+smooth commerce<br>
+munich re<br>
+MWN technologies<br>
+Morningstar<br>
+Intact<br>
+CGI<br>
+Exchange Bank of Canada<br>
+KPMG<br>
+Flipp<br>
+Wonolo<br>
+Snaptravel<br>
+Freshii<br>
+Daisy Intelligence Corporation<br>
+Homestars<br>
+JAM Direct<br>
+Heliolytics -<br>
+synechron -<br>
+SNC Lavalin<br>
 
 
