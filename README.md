@@ -36,6 +36,8 @@ Flighthub
 Stemcell Technologies
 Exchange Solutions
 Vancity
+360insights
+PressReader
 ecofish research - https://www.ecofishresearch.com/careers<br>
 lifelabs - https://jobs.lifelabs.com/job/Toronto-Data-Quality-and-Integrity-Analyst-ON/622837900/?feedId=281500&utm_source=Indeed&utm_campaign=LifeLabs_Indeed&jobPipeline=Indeed<br>
 stericycle - https://careers.stericycle.com/job/Oakville-Data-Analyst-ON-L6H-1A7/629168700/?feedId=302800&utm_source=Indeed&utm_campaign=Stericycle_Indeed&source=Indeed.com&sourceType=PREMIUM_POST_SITE<br>
