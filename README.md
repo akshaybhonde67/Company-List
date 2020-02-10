@@ -30,6 +30,11 @@ Glu mobile - https://www.eluta.ca/spl/data-analyst-6fd0cf6dcb3b69569235a0395f333
 shutterstock - https://www.eluta.ca/spl/data-scientist-computer-vision-6afd053f295925daca2ec4cdfcc79ca1<br>
 dynacert - http://demo.suttonpreview.com/Careers/Default.aspx<br>
 
+Prodigy game
+Flighthub
+Stemcell Technologies
+Exchange Solutions
+Vancity
 ecofish research - https://www.ecofishresearch.com/careers<br>
 lifelabs - https://jobs.lifelabs.com/job/Toronto-Data-Quality-and-Integrity-Analyst-ON/622837900/?feedId=281500&utm_source=Indeed&utm_campaign=LifeLabs_Indeed&jobPipeline=Indeed<br>
 stericycle - https://careers.stericycle.com/job/Oakville-Data-Analyst-ON-L6H-1A7/629168700/?feedId=302800&utm_source=Indeed&utm_campaign=Stericycle_Indeed&source=Indeed.com&sourceType=PREMIUM_POST_SITE<br>
