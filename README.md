@@ -31,6 +31,7 @@ shutterstock - https://www.eluta.ca/spl/data-scientist-computer-vision-6afd053f2
 dynacert - http://demo.suttonpreview.com/Careers/Default.aspx<br>
 
 Prodigy game
+Mindgeek
 Flighthub
 Stemcell Technologies
 Exchange Solutions
