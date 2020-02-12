@@ -32,7 +32,11 @@ dynacert - http://demo.suttonpreview.com/Careers/Default.aspx<br>
 
 Skywatch
 Mistplay
+IQVIA
+Creative Technology resources
 Symend
+Mindshare
+loblaws
 York University
 Prodigy game
 Mindgeek
