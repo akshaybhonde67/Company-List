@@ -37,6 +37,12 @@ Evercore by blackswan<br>
 solvera<br>
 Univ of Alberta<br>
 skipthedishes <br>
+emergiTel inc<br>
+Neo Media World<br>
+Ballard<br>
+Grand River Hospital<br>
+Ludia<br>
+BGIS<br>
 vidyard<br>
 hopper<br>
 Mistplay<br>
