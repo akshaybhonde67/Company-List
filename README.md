@@ -30,6 +30,10 @@ Glu mobile - https://www.eluta.ca/spl/data-analyst-6fd0cf6dcb3b69569235a0395f333
 shutterstock - https://www.eluta.ca/spl/data-scientist-computer-vision-6afd053f295925daca2ec4cdfcc79ca1<br>
 dynacert - http://demo.suttonpreview.com/Careers/Default.aspx<br>
 
+Skywatch
+Mistplay
+Symend
+York University
 Prodigy game
 Mindgeek
 Flighthub
@@ -44,15 +48,15 @@ stericycle - https://careers.stericycle.com/job/Oakville-Data-Analyst-ON-L6H-1A7
 sickkids<br>
 enthusiast gaming<br>
 smooth commerce<br>
-munich re<br>
+munich re<br> - video interview invite
 MWN technologies<br>
 Morningstar<br>
 Intact<br>
 CGI<br>
 Exchange Bank of Canada<br>
 KPMG<br>
-Flipp<br>
-Wonolo<br>
+Flipp<br> - position filled
+Wonolo<br> - reject
 Snaptravel<br>
 Freshii<br>
 Daisy Intelligence Corporation<br>
