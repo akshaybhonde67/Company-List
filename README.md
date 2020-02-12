@@ -34,6 +34,10 @@ Skywatch<br>
 Rosen<br>
 westjet<br>
 Evercore by blackswan<br>
+solvera<br>
+Univ of Alberta<br>
+skipthedishes <br>
+vidyard<br>
 hopper<br>
 Mistplay<br>
 IQVIA<br>
