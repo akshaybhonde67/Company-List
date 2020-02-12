@@ -30,37 +30,37 @@ Glu mobile - https://www.eluta.ca/spl/data-analyst-6fd0cf6dcb3b69569235a0395f333
 shutterstock - https://www.eluta.ca/spl/data-scientist-computer-vision-6afd053f295925daca2ec4cdfcc79ca1<br>
 dynacert - http://demo.suttonpreview.com/Careers/Default.aspx<br>
 
-Skywatch
-Mistplay
-IQVIA
-Creative Technology resources
-Symend
-Mindshare
-loblaws
-York University
-Prodigy game
-Mindgeek
-Flighthub
-Stemcell Technologies
-Exchange Solutions
-Vancity
-360insights
-PressReader
+Skywatch<br>
+Mistplay<br>
+IQVIA<br>
+Creative Technology resources<br>
+Symend<br>
+Mindshare<br>
+loblaws<br>
+York University<br>
+Prodigy game<br>
+Mindgeek<br>
+Flighthub<br>
+Stemcell Technologies<br>
+Exchange Solutions<br>
+Vancity<br>
+360insights<br>
+PressReader<br>
 ecofish research - https://www.ecofishresearch.com/careers<br>
 lifelabs - https://jobs.lifelabs.com/job/Toronto-Data-Quality-and-Integrity-Analyst-ON/622837900/?feedId=281500&utm_source=Indeed&utm_campaign=LifeLabs_Indeed&jobPipeline=Indeed<br>
 stericycle - https://careers.stericycle.com/job/Oakville-Data-Analyst-ON-L6H-1A7/629168700/?feedId=302800&utm_source=Indeed&utm_campaign=Stericycle_Indeed&source=Indeed.com&sourceType=PREMIUM_POST_SITE<br>
 sickkids<br>
 enthusiast gaming<br>
 smooth commerce<br>
-munich re<br> - video interview invite
+munich re- video interview invite<br> 
 MWN technologies<br>
 Morningstar<br>
 Intact<br>
 CGI<br>
 Exchange Bank of Canada<br>
 KPMG<br>
-Flipp<br> - position filled
-Wonolo<br> - reject
+Flipp- position filled<br> 
+Wonolo- reject<br> 
 Snaptravel<br>
 Freshii<br>
 Daisy Intelligence Corporation<br>
