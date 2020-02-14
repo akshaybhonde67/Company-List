@@ -39,7 +39,7 @@ Univ of Alberta<br>
 skipthedishes <br>
 emergiTel inc<br>
 Neo Media World<br>
-Ballard<br>
+Ballard - reject<br>
 Grand River Hospital<br>
 Ludia<br>
 BGIS<br>
