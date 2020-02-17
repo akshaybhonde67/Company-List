@@ -100,3 +100,6 @@ GFL Environmental<br>
 ScotiaBank<br>
 Behavox<br>
 ResMed<br>
+Platterz<br>
+Danone<br>
+Electronic Arts<br>
