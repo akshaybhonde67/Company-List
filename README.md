@@ -98,3 +98,5 @@ Natural Partners Fullscripts<br>
 Rand Worldwide <br>
 GFL Environmental<br>
 ScotiaBank<br>
+Behavox<br>
+ResMed<br>
