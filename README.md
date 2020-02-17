@@ -31,6 +31,7 @@ shutterstock - https://www.eluta.ca/spl/data-scientist-computer-vision-6afd053f2
 dynacert - http://demo.suttonpreview.com/Careers/Default.aspx<br>
 
 Skywatch<br>
+Klik<br>
 Rosen<br>
 westjet<br>
 Evercore by blackswan<br>
@@ -83,5 +84,5 @@ JAM Direct<br>
 Heliolytics -<br>
 synechron -<br>
 SNC Lavalin<br>
-
+Canada Bread - reject<br>
 
