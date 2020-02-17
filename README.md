@@ -76,7 +76,7 @@ Exchange Bank of Canada<br>
 KPMG<br>
 Flipp- position filled<br> 
 Wonolo- reject<br> 
-Snaptravel<br>
+Snaptravel - <strong>hr call<strong><br>
 Freshii<br>
 Daisy Intelligence Corporation<br>
 Homestars<br>
@@ -89,3 +89,5 @@ Gas Buddy<br>
 Syniti <br>
 Tangan Systems<br>
 Capital One<br>
+Russell Hendrix Foodservice Equipment<br>
+CST Consultant inc <br>
