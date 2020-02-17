@@ -67,7 +67,7 @@ stericycle - https://careers.stericycle.com/job/Oakville-Data-Analyst-ON-L6H-1A7
 sickkids<br>
 enthusiast gaming<br>
 smooth commerce<br>
-munich re- video interview invite<br> 
+munich re- <strong>video interview invite</strong><br> 
 MWN technologies<br>
 Morningstar<br>
 Intact<br>
@@ -76,7 +76,7 @@ Exchange Bank of Canada<br>
 KPMG<br>
 Flipp- position filled<br> 
 Wonolo- reject<br> 
-Snaptravel - <strong>hr call<strong><br>
+Snaptravel - <strong>hr call</strong><br>
 Freshii<br>
 Daisy Intelligence Corporation<br>
 Homestars<br>
