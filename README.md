@@ -96,3 +96,5 @@ Kuerig DrPepper<br>
 Genentech<br>
 Natural Partners Fullscripts<br>
 Rand Worldwide <br>
+GFL Environmental<br>
+ScotiaBank<br>
