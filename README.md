@@ -86,3 +86,6 @@ synechron -<br>
 SNC Lavalin<br>
 Canada Bread - reject<br>
 Gas Buddy<br>
+Syniti <br>
+Tangan Systems<br>
+Capital One<br>
