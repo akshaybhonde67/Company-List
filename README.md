@@ -30,7 +30,7 @@ Glu mobile - https://www.eluta.ca/spl/data-analyst-6fd0cf6dcb3b69569235a0395f333
 shutterstock - https://www.eluta.ca/spl/data-scientist-computer-vision-6afd053f295925daca2ec4cdfcc79ca1<br>
 dynacert - http://demo.suttonpreview.com/Careers/Default.aspx<br>
 
-Skywatch<br>
+Skywatch-Reject<br>
 Klik<br>
 Rosen<br>
 westjet<br>
