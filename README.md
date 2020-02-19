@@ -88,11 +88,11 @@ Canada Bread - reject<br>
 Gas Buddy<br>
 Syniti <br>
 Tangan Systems<br>
-Capital One<br>
+Capital One - reject<br>
 Russell Hendrix Foodservice Equipment<br>
 CST Consultant inc <br>
 Direct Plus Food Group<br>
-Kuerig DrPepper<br>
+Kuerig DrPepper - reject<br>
 Genentech<br>
 Natural Partners Fullscripts<br>
 Rand Worldwide <br>
@@ -105,3 +105,4 @@ Danone<br>
 Electronic Arts<br>
 Clearly<br>
 H&R Block<br>
+
