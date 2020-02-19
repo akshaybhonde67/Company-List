@@ -109,3 +109,10 @@ Postmedia network <Br>
 TouchBistro<br>
 Big Viking Games<br>
 Xylem<br>
+AdGear<br>
+Ruckify<br>
+Oxford Properties<br>
+Sunlife Financial<br>
+QHR Technology<br>
+Ellis Don<br>
+SustainErgy Group<br>
