@@ -116,3 +116,16 @@ Sunlife Financial<br>
 QHR Technology<br>
 Ellis Don<br>
 SustainErgy Group<br>
+Vendasta<br>
+Cryptokitties<br>
+stackadapt<br>
+Huronia Guest Home<br>
+Wattpad<br>
+TKEES Inc<br>
+Reliance Home comfort<br>
+IPG Media Brands Kinesso<br>
+Mobify<br>
+Conflux<br>
+Ontario Power Generation<br>
+Data Sciences<br>
+OICR<br>
