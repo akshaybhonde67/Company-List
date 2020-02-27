@@ -135,3 +135,9 @@ Hope and Healing International<br>
 Smith Cameron Group<br>
 QuadReal<br>
 Energy Profiles Limited<br>
+University of Alberta<br>
+Univ of Toronto<br>
+Sterling Turner<br>
+Beutel, Goodman & Company Ltd.<br>
+Appleby college<br>
+
