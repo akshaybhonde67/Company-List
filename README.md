@@ -31,7 +31,7 @@ shutterstock - https://www.eluta.ca/spl/data-scientist-computer-vision-6afd053f2
 dynacert - http://demo.suttonpreview.com/Careers/Default.aspx<br>
 
 Skywatch-Reject<br>
-Klik<br>
+Klik - reject <br>
 Rosen<br>
 westjet<br>
 Evercore by blackswan<br>
@@ -74,7 +74,7 @@ Intact<br>
 CGI<br>
 Exchange Bank of Canada<br>
 KPMG<br>
-Flipp- position filled<br> 
+Flipp- reject position filled<br> 
 Wonolo- reject<br> 
 Snaptravel - <strong>hr call</strong><br>
 Freshii<br>
@@ -95,14 +95,14 @@ Direct Plus Food Group<br>
 Kuerig DrPepper - reject<br>
 Genentech<br>
 Natural Partners Fullscripts<br>
-Rand Worldwide <br>
+Rand Worldwide - reject <br>
 GFL Environmental<br>
 ScotiaBank<br>
 Behavox<br>
 ResMed<br>
 Platterz<br>
-Danone<br>
-Electronic Arts<br>
+Danone - reject<br>
+Electronic Arts - reject<br>
 Clearly<br>
 H&R Block<br>
 Postmedia network <Br>
