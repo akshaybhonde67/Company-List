@@ -140,4 +140,8 @@ Univ of Toronto<br>
 Sterling Turner<br>
 Beutel, Goodman & Company Ltd.<br>
 Appleby college<br>
+Vidyard<br>
+Ledcor<br>
+Aviva<br>
+Nova Scotia Power<br>
 
