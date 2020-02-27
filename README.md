@@ -132,3 +132,6 @@ OICR<br>
 Baker Hughes<br>
 Hope and Healing International<br>
 1000ml Inc<br>
+Smith Cameron Group<br>
+QuadReal<br>
+Energy Profiles Limited<br>
