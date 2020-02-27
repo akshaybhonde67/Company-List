@@ -129,3 +129,6 @@ Conflux<br>
 Ontario Power Generation<br>
 Data Sciences<br>
 OICR<br>
+Baker Hughes<br>
+Hope and Healing International<br>
+1000ml Inc<br>
