@@ -144,4 +144,5 @@ Vidyard<br>
 Ledcor<br>
 Aviva<br>
 Nova Scotia Power<br>
-
+Centinial college<br>
+Ritchie Bros<br>
